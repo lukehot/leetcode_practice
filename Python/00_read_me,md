@@ -1,0 +1,8 @@
+# Read me 
+
+0  	---  Can't solve at all
+1 	---  Understand, can't solve
+2	---  Can solve with unlimit time 
+3	---  Can solve with limit time but not optimal solution 
+4	---  Can solve bug free but not optimal 
+5	---  Solve bug free optimal 
